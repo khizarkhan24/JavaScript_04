@@ -1,0 +1,25 @@
+.main{
+    border: 2px solid black;
+    width: 175px;
+    margin: 5%;
+}
+#nine ,#eight , #seven , #six ,
+#five ,#four , #three ,#two , #one,
+#zero , #minus , #plus
+, #multiple , #dot ,#divide{
+    width: 50px;
+    margin-left: 4px;
+}
+#equal , #c{
+    width: 165px;
+    margin-left: 5px;
+}
+#display{
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 0.5%;
+}
+input[type = "text"]{
+    text-align: right;
+}
